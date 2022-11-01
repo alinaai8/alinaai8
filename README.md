@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alina Custură
-- I am a 22 years old student proceeding a Bachelor's Degree in Engineering at University POLITEHNICA of Bucharest, Faculty of Automatic Control and Computers.
+- I am a 23 years old student proceeding a Master's Degree in Engineering at University POLITEHNICA of Bucharest, Faculty of Automatic Control and Computers.
 - 📫 How to reach me : alinaai@icloud.com
 
 <!---
